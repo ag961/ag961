@@ -1,4 +1,5 @@
 ### Welcome to my first page!
+My name is Ayrat. Please visit my [GitHub portfolio page!](https://github.com/ag961) 
 # Growth mindset
 Growth mindset is a mental state fueled by aspiration to achieve something *bigger* and ability to overcome challenges that lay ahead through persistence. The unstoppable willingness to grow has to come from the inside. Once it appears, you have to act on it. Decisions don't come easy. But after I set my sights on something, the race is on. It doesn't matter whether we have a talent for it. 
 As someone said before:
