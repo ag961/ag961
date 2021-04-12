@@ -5,9 +5,9 @@ Text editors are software tools where we can type in a text. Some examples of **
 ### Most important features in a text editor:
 * ***Code completion:***
   * Offers suggestions to finish typing code.
-* ***Synthax highlighting*** and ***themes***
+* ***Synthax highlighting and themes***
   * Text turns into various colors thus helping to differentiate sections of code; background themes help prevent eye fatigue. 
-* Availability of ***extensions***
+* ***Availability of extensions***
   * Similar to plug-ins that give you more functionality in a text editor.
 
 If you take a step further, there is an **IDE (Integrated Development Environment)**, which in addition to being a text editor is also a debugger, a file manager, and a compiler. 
