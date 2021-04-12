@@ -19,7 +19,7 @@ The terminal is a *text based interface*. Unlike a graphical user interface (GUI
 
 ### The Terminal basic commands
 
-- `Up` and `Down` arrows - Scroll through command history
+- *Up* and *Down* arrows - Scroll through command history
 - `pwd` (Print Working Directory) - Shows current directory you are working in
 - `ls` (list) - Lists items in a current directory
   - `ls -l` (long list option) - Lists items with details
