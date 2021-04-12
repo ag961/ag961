@@ -14,8 +14,14 @@ If you take a step further, there is an **IDE (Integrated Development Environmen
 
 -------------------------------
 
+### The Terminal
+The terminal is a *text based interface*. Unlike a graphical user interface (GUI), it operates through typed text commands and text responses. 
+
 ### The Terminal basic commands
 
 - `Up` and `Down` arrows - Scroll through command history
-- 
+- `pwd` (Print Working Directory) - Shows current directory you are working in
+- `ls` (list) - Lists items in a current directory
+  - `ls -l` (long list option) - Lists items with details
+  - `ls /etc` - List items in ***/etc*** directory
 
