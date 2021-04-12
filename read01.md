@@ -11,3 +11,7 @@ There are certain thoughts that keep me going when I start hitting road blocks.
   - If someone can do it, I can do it
 - **reminder 3:**
   - Build the schedule and stick to it. There is time to work, there is time to rest. All in its own time.
+
+
+To insert an image I found one online with a common license used `![Kazan](https://user-images.githubusercontent.com/81946031/114297021-2cdc3180-9a63-11eb-99e6-25aa3be144bb.png) ` to link to it.
+![Kazan](https://user-images.githubusercontent.com/81946031/114297021-2cdc3180-9a63-11eb-99e6-25aa3be144bb.png) 
