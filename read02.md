@@ -24,5 +24,8 @@ The terminal is a *text based interface*. Unlike a graphical user interface (GUI
 - `ls` (list) - Lists items in a current directory
   - `ls -l` (long list option) - Lists items with details
   - `ls /etc` - List items in ***/etc*** directory
-  - `cd` - change directory
+- `cd` - change directory
+- `~` - shortcut for a home directory
+- `.` - reference to current directory
+- `..` - reference to the parent directory
 
