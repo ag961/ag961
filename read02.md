@@ -29,5 +29,5 @@ The terminal is a *text based interface*. Unlike a graphical user interface (GUI
 - `.` - reference to current directory
 - `..` - reference to the parent directory
 - `file [path]` - a type of file
--  ```` Anything inside quotes is recognized as a single item
+-  `` `...` `` Anything inside quotes is recognized as a single item (e.g. to refer to a dual word file separated with space)
 
