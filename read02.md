@@ -28,4 +28,6 @@ The terminal is a *text based interface*. Unlike a graphical user interface (GUI
 - `~` - shortcut for a home directory
 - `.` - reference to current directory
 - `..` - reference to the parent directory
+- `file [path]` - a type of file
+-  ```` Anything inside quotes is recognized as a single item
 
