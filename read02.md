@@ -21,13 +21,15 @@ The terminal is a *text based interface*. Unlike a graphical user interface (GUI
 
 - *Up* and *Down* arrows - Scroll through command history
 - `pwd` (Print Working Directory) - Shows current directory you are working in
-- `ls` (list) - Lists items in a current directory
+- `ls` (list) - Lists items in a current directory (not including hidden files)
   - `ls -l` (long list option) - Lists items with details
   - `ls /etc` - List items in ***/etc*** directory
+- `ls -a` - list including hidden files
 - `cd` - change directory
 - `~` - shortcut for a home directory
 - `.` - reference to current directory
 - `..` - reference to the parent directory
 - `file [path]` - a type of file
--  `` `...` `` Anything inside quotes is recognized as a single item (e.g. to refer to a dual word file separated with space)
+-  `` `...` `` Anything inside quotes is recognized as a single item (e.g. to escape spaces in names)
+-  `\ ` - Escape character
 
