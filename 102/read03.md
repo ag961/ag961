@@ -19,4 +19,6 @@ After completing the work locally, I uploaded all the changes back to GitHub usi
 
 In case I don't want to commit changes, but would like to save them anyways, I can use `git stash` command. `git stash apply` command will retrieve those changes should I decide to bring them back.
 
+-----
+
 [<== BACK](102-toc.md)

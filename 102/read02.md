@@ -33,4 +33,7 @@ The terminal is a *text based interface*. Unlike a graphical user interface (GUI
 -  `` `...` `` Anything inside quotes is recognized as a single item (e.g. to escape spaces in names)
 - `\` - Escape character
 
-[<== BACK](102-toc.md)
+----------------------------------------------------------------
+
+
+[<== BACK](102-toc.md)  
