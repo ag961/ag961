@@ -31,5 +31,6 @@ The terminal is a *text based interface*. Unlike a graphical user interface (GUI
 - `..` - reference to the parent directory
 - `file [path]` - a type of file
 -  `` `...` `` Anything inside quotes is recognized as a single item (e.g. to escape spaces in names)
--  `\ ` - Escape character
+- `\` - Escape character
 
+[<== BACK](102-toc.md)
