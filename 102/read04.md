@@ -46,6 +46,7 @@ The opening tag of an element can also have ***attributes*** made up of a ***nam
 
 * `<p lang="en-us">Paragraph in English</p>`
   * *lang* is name, *en-us* is value.
+
 ## HTML5 Layout (Chapter 17)
 
 HTML5 is a version of HTML that has a new set of elements that allows you to divide up the parts of a page (previously `<div>` elements).
@@ -71,7 +72,7 @@ CLASS attribute `<(tag) class="...">` - unique group of elements
 
 `<iframe>` - inline frame (often to insert a Google map). Used with attributes `src`, `height`, `width`, `scrolling`, `frameborder`, `seamless`.
 
-```
+``` markdown
 <meta (attribute)="value"
   conent="value" />
 ```
@@ -80,3 +81,6 @@ CLASS attribute `<(tag) class="...">` - unique group of elements
 
 `<&>` - escape character
 
+-----
+
+[<== BACK](102-toc.md)
