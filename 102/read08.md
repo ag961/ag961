@@ -21,7 +21,7 @@
 
 **For** loop. Runs a code a specific number of times.  
 
-`for (var i = 0; i < value; i++) { code to execute during loop}
+`for (var i = 0; i < value; i++) { code to execute during loop}`
 
 Where `var i = 0;` is initialization. `i<10;` is condition. `i++` is update
 
