@@ -1,6 +1,6 @@
 # Introductory HTML and JavaScript
 
-As summurized from 
+As summarized from 
 
 > Duckett, J. (2011). *HTML & CSS: Design and build websites.* Indianapolis, IN: Wiley  
 
