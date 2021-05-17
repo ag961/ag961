@@ -98,7 +98,7 @@ Form properties allow styling of forms
 -----
 
 Source:
-> Duckett, J. (2011). *HTML & CSS: Design and build websites.* Indianapolis, IN: Wiley
+> Duckett, J. (2014). *JavaScript & jQuery: Interative front-end development.* Indianapolis, IN: Wiley
 
 ## Chapter 6: “Events” (pp.243-292)
 
