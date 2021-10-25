@@ -1,4 +1,4 @@
-# Access Control (ACL)
+# Read 09: Authorization/Authentication
 
 1. What header(s) are used in authentication and authorization
 
