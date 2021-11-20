@@ -1,4 +1,4 @@
-# Read 15: AWS: Cloud Servers
+# Read 16: AWS: Cloud Servers
 
 1. Describe the Web-Request-Response-Cycle
 An app sends a response to an API, the API receives the request, processes it and send back the response.
