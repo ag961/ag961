@@ -9,6 +9,25 @@ But Redux middleware can handle side effects instead.
 - Redux middleware has access to `dispatch` and `getState`. We can do some logic in middleware and then interact with Redux store.
 
 
+### Redux Middleware
+
+Middleware written as ES5 functions
+
+Outer function:
+function exampleMiddleware(storeAPI) {
+  return function wrapDispatch(next) {
+    return function handleAction(action) {
+      // Do anything here: pass the action onwards with next(action),
+      // or restart the pipeline with storeAPI.dispatch(action)
+      // Can also use storeAPI.getState() here
+
+      return next(action)
+    }
+  }
+}
+
+([source](https://redux.js.org/tutorials/fundamentals/part-4-store#middleware))
+
 ## Resources
 
 [async actions](https://redux.js.org/advanced/asyncactions)
