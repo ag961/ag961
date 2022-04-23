@@ -20,6 +20,17 @@ An existing app:
 # NPM
 npm install @reduxjs/toolkit
 ```
+# API's
+
+configureStore()
+createReducer()
+createAction()
+createSlice()
+createAsyncThunk
+createEntityAdapter
+createSelector
+
+
 
 ## Create a Redux Store
 
